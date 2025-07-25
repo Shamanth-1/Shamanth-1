@@ -99,4 +99,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shamanth-1&show_icons=true&theme=radical" alt="Shamanth's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamanth-1&theme=radical" alt="GitHub Streak" /> </p>
 
 ### 🔗 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/shamanth01/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:shamanthshamanth.111@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"><i>✨ Keep Building, Keep Learning, Keep Creating ✨</i></p> 
+<p align="center"> <a href="https://www.linkedin.com/in/shamanth01/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  <a href="mailto:shamanthshamanth.111@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"><i>✨ Keep Building, Keep Learning, Keep Creating ✨</i></p> 
