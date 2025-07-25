@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year Engineering Student  
+- 🎓 4th-year Engineering Student  
 - 🌱 Currently learning **Full Stack Development (MERN)**   
 - 💡 Love solving problems with creative tech  
 - 🤝 Open to **collaborations**, **mentorship**, and **new challenges**  
@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-```json
+``` json
 {
   "Languages": ["JavaScript", "Java", "C++", "Python"],
   "Frontend": ["HTML5", "CSS3", "React", "Tailwind CSS"],
@@ -35,6 +35,8 @@
 - 🎨 Creative websites using HTML/CSS & JS
 
 - 🎬 Side projects blending tech + storytelling
+
+---
 
 ### 👯 I’m Looking to Collaborate On
 - Full Stack Projects
@@ -58,6 +60,8 @@
 
 - Web Projects
 
+---
+
 ### 🌱 I’m Currently Learning
 - React.js
 
@@ -77,6 +81,8 @@
 
 - Web Accessibility
 
+---
+
 ### 💬 Ask Me About
 - MERN Stack
 
@@ -92,11 +98,12 @@
 
 - Short Film Projects
 
+---
+
 ### 📸 Fun Side of Me
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C13C&vCenter=true&width=435&lines=Code.+Edit.+Create.+Repeat.;Chasing+Pixel+Perfection...;Let's+build+something+cool!" alt="Typing SVG" /> </p>
 
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shamanth-1&show_icons=true&theme=radical" alt="Shamanth's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamanth-1&theme=radical" alt="GitHub Streak" /> </p>
+---
 
 ### 🔗 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/shamanth01/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
