@@ -9,8 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year Engineering Student  
-- 🌱 Currently learning **Full Stack Development (MERN)**  
-- 🎥 Passionate about storytelling & short films — *"Lonely Tree"*  
+- 🌱 Currently learning **Full Stack Development (MERN)**   
 - 💡 Love solving problems with creative tech  
 - 🤝 Open to **collaborations**, **mentorship**, and **new challenges**  
 - 🎯 Always aiming to make something meaningful and user-friendly  
