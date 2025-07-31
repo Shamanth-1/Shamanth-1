@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shamanth 👋</h1>
+# <h1 align="center">Hi there, I'm Shamanth 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 4th-year Engineering Student  
 - 🌱 Currently learning **Full Stack Development (MERN)**   
