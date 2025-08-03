@@ -1,7 +1,7 @@
 # <h1 align="center">Hi there, I'm Shamanth 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation">
 </p>
 
 
@@ -70,3 +70,4 @@
   <p align="center">
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamanth-1&" alt="shamanth-1" ></p>
 
+---
